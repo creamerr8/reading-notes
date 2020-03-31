@@ -5,8 +5,7 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 #### Day 1 - Introductory HTML and JavaScript
   1. Stucture
      - HTML uses elements to describe the structure of pages
-     - Tags act like containers . They tell you something about the informationthat lies between their opening and closing tags
-     - Tag ex (<p> </p>)
+     - Tags act like containers . They tell you something about the informationthat lies between their opening and closing tag
      - The terms tags and elements are used interchangeably, but strictly speaking, an element is the opening, closing tags as well as          the content in them
      - Attributes tell us more about elements
      - Attributes appear in the opening tag of an element and have 2 parts (name and value), they are seperated by an equals sign
