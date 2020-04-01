@@ -13,6 +13,11 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
   2. Introduction to CSS
   3. Basic JavaScript Instuctions
   4. Decisions and Loopsript distinguishes between numbers (0 to 9), strings (text), and boolean (true or false)
+#### Day 3 - HTML Lists, CSS Boxes, JS Control Flow
+  1. Lists 
+  2. Boxes
+  3. Decisions and Loops
+
 ## Code 301 - Intermediate Software Devolpment 
 
 ## Code 401 - Advanced Software Devlopment
