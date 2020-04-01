@@ -13,7 +13,7 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
   2. Introduction to CSS
   3. Basic JavaScript Instuctions
   4. Decisions and Loopsript distinguishes between numbers (0 to 9), strings (text), and boolean (true or false)
-#### Day 3 - [Reading class-03](class-01.md)
+#### Day 3 - [Reading class-03](class-03.md)
   1. Lists 
   2. Boxes
   3. Decisions and Loops
