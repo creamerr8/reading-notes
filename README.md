@@ -17,6 +17,7 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
   1. Lists 
   2. Boxes
   3. Decisions and Loops
+#### Day 4 - [Reading class-04](class-04.md)
 
 ## Code 301 - Intermediate Software Devolpment 
 
