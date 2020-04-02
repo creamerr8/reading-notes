@@ -18,6 +18,10 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
   2. Boxes
   3. Decisions and Loops
 #### Day 4 - [Reading class-04](class-04.md)
+1. Links
+2. Layouts
+3. Functions, Methods, and Objects
+4. Resons for Pair Programming
 
 ## Code 301 - Intermediate Software Devolpment 
 
