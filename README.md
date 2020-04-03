@@ -22,7 +22,10 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 2. Layouts
 3. Functions, Methods, and Objects
 4. Resons for Pair Programming
-
+#### Day 5 - [Reading class-05](class-05.md)
+1. Images
+2. Color 
+3. Text
 ## Code 301 - Intermediate Software Devolpment 
 
 ## Code 401 - Advanced Software Devlopment
