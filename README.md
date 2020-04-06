@@ -26,6 +26,10 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 1. Images
 2. Color 
 3. Text
+#### Day 6 - [Reading class06](class-06.md)
+1. Understanding the problem domain is the hardest part of programming
+2. Object Literals 
+3. Document Object Model
 ## Code 301 - Intermediate Software Devolpment 
 
 ## Code 401 - Advanced Software Devlopment
