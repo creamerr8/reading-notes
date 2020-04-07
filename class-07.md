@@ -1,0 +1,24 @@
+1. Tables
+   - A table represents information in a grid format
+   - each block in a table is refered to a table cell
+   - the table element is used to create a table
+   - you indicate the start of each row with an opening tr tag
+   - each cell of a table is represented using a td tag
+   - the th element is used to represent the heading for wither the row or column
+   - the headings of a table should live in the thead tag
+   - the table body should live inside the tbody tag
+   - the tables footer lives in the tfoot tag
+2. Functions, Methods, and Objects
+   - the new keyword and the object constructor create a blank object
+   - to update the value of properties, use dot notation or square brackets
+   - object constructors can use a function as a template for creating objects
+   - you can create instances using a constuctor function
+   - the new keyword follwed by a call to the fucnction creates a new object
+   - arrays are actually a special type of object, they hold a related set of hey/value pairs, but for each valueis its index number
+   - you can combine arrays and objects to create complex data stuctures
+   -  arrays can store a series of objects
+   - objects can also hold arrays
+   - the browser object model creates a model of the browser tabor window
+   - the document object model creates a model of the current web page
+   - the global objects do not form a single model, they are a group of individual objects that relate to different parts of the JS langguage
+   - in order to work with dates you create an instance of the date object 
