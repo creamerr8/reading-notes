@@ -33,6 +33,12 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 #### Day 7 - [Reading class-07](class-07.md)
 1. Tables
 2. Functions, Methods, and Objects
+#### Day 8 - [Reading class-08](class-08.md)
+
+#### Day 9 - [Reading class-09](class-09.md)
+1. Forms
+2. Lists, Tables, and Forms
+3. Events
 ## Code 301 - Intermediate Software Devolpment 
 
 ## Code 401 - Advanced Software Devlopment
