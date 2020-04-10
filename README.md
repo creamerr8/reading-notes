@@ -39,6 +39,8 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 1. Forms
 2. Lists, Tables, and Forms
 3. Events
+#### Day 10 - [Reading class-10](class-10.md)
+1. Error Handling and Debugging
 ## Code 301 - Intermediate Software Devolpment 
 
 ## Code 401 - Advanced Software Devlopment
