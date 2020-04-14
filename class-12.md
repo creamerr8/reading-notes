@@ -20,17 +20,17 @@
    - to draw arcs or circles we use the arc or arcto methods
    - the next type of paths available are Bézier curves,, they are availble in both cubic and quadratic varities, they are used to draw compelx or organic shapes
 4.  Applying Styles and Colors
-   - is you want to apply colors to a shape, there are two important proporties, fillstyle and strokestyle
-   - fillstyle is used when filling shapes
-   - strokestyle is used to outlineshapes
-   - in addition to drawing opaque to the canvas we can also draw semi-transparent shapes using the globalAlpha proporty
-   - there are several properties that allow us to style lines
-   - linewidth, linecap, miterlimit, getlinedash, setlinedash, linedashoffset
-   - just like any normal drawing program we can fill and stroke shapes ysing linear and radial gradients, we create a canvasgradient object by using one of the following methods, fillstyle or strokestyle
-   - once we have creates a canvasgradient object we can assign colors to it by usin the addcolorstop method
-   - you can use the createpattern method to create patterns
-   - using shadows involves using just four properties, shadowoffsetx, shawdowoffsety, shadowblur, shadowcolor
-   - when using fill you can optionally provide a fill rule algoritm by which to determine if a point is inside or outside a path and thus it gets filles or not
+    - is you want to apply colors to a shape, there are two important proporties, fillstyle and strokestyle
+    - fillstyle is used when filling shapes
+    - strokestyle is used to outlineshapes
+    - in addition to drawing opaque to the canvas we can also draw semi-transparent shapes using the globalAlpha proporty
+    - there are several properties that allow us to style lines
+    - linewidth, linecap, miterlimit, getlinedash, setlinedash, linedashoffset
+    - just like any normal drawing program we can fill and stroke shapes ysing linear and radial gradients, we create a canvasgradient object by using one of the following methods, fillstyle or strokestyle
+    - once we have creates a canvasgradient object we can assign colors to it by usin the addcolorstop method
+    - you can use the createpattern method to create patterns
+    - using shadows involves using just four properties, shadowoffsetx, shawdowoffsety, shadowblur, shadowcolor
+    - when using fill you can optionally provide a fill rule algoritm by which to determine if a point is inside or outside a path and thus it gets filles or not
 5. Drawing Text
    - the canvas rendering context provides two methods to render text, filltext and stroketext
    - there are more porperties which let you adjust the way the text gets displayed on the canvas, font, textalign, textbaseline, direction
