@@ -41,6 +41,15 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 3. Events
 #### Day 10 - [Reading class-10](class-10.md)
 1. Error Handling and Debugging
+#### Day 11 - [Reading class-11](class-11.md)
+1. Images
+2. Practical Information
+#### Day 12 - [Reading class-12](class-12.md)
+1. Chartjs API
+2. Basic Usage
+3. Drawing Shapes With Canvas
+4. Applying Styles and Colors
+5. Drawing Text
 ## Code 301 - Intermediate Software Devolpment 
 
 ## Code 401 - Advanced Software Devlopment
