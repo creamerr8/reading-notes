@@ -51,5 +51,13 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 4. Applying Styles and Colors
 5. Drawing Text
 ## Code 301 - Intermediate Software Devolpment 
-
+#### Day 1 -
+#### Day 2 -
+#### Day 3 - 
+#### Day 4 - 
+#### Day 5 - 
+#### Day 6 - 
+#### Day 7- [Reading 301-class-07](301-class-07.md)
+1. How I explained REST to my brother
+2. Documentation For SuoerAgent
 ## Code 401 - Advanced Software Devlopment
