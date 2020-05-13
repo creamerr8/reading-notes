@@ -58,7 +58,9 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 #### Day 5 - 
 #### Day 6 - 
 #### Day 7- [Reading 301-class-07](301-class-07.md)
-#### Day 8 - [Reading 301-class-08](301-class-08.md)
 1. How I explained REST to my brother
 2. Documentation For SuoerAgent
+#### Day 8 - [Reading 301-class-08](301-class-08.md)
+1. Complete SQLBolt
+2. Practice SQL on W3 Schools
 ## Code 401 - Advanced Software Devlopment
