@@ -63,4 +63,5 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 #### Day 8 - [Reading 301-class-08](301-class-08.md)
 1. Complete SQLBolt
 2. Practice SQL on W3 Schools
+#### Day 9 - [Reading-$)301-class-09](301-class-09.md)
 ## Code 401 - Advanced Software Devlopment
