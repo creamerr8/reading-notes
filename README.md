@@ -66,4 +66,8 @@ This website is for Ryan Creamer's Reading notes at Code Fellows. These will be 
 #### Day 9 - [Reading-301-class-09](301-class-09.md)
 1. Functional Programming Concepts
 2. Refactoring Javascript for Readability
+#### Day 10 - [Reading 301-class-10](301-class-10.md)
+1. The Call Stack defined on MDN
+2. Understanding the JavaScript Call Stack
+3. JavaScript error messages
 ## Code 401 - Advanced Software Devlopment
